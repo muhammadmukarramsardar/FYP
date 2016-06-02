@@ -1,0 +1,81 @@
+F:\Final Year Project\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.csprojResolveAssemblyReference.cache
+F:\Final Year Project\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.AddGuardiancs.resources
+F:\Final Year Project\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.AddStudent.resources
+F:\Final Year Project\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.GuardianTime.resources
+F:\Final Year Project\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.ManageStudents.resources
+F:\Final Year Project\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.Properties.Resources.resources
+F:\Final Year Project\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.csproj.GenerateResource.Cache
+F:\Final Year Project\FinalYearProject\FinalYearProject\bin\Debug\FinalYearProject.exe.config
+F:\Final Year Project\FinalYearProject\FinalYearProject\bin\Debug\FinalYearProject.exe
+F:\Final Year Project\FinalYearProject\FinalYearProject\bin\Debug\FinalYearProject.pdb
+F:\Final Year Project\FinalYearProject\FinalYearProject\bin\Debug\CosmosApplication.dll
+F:\Final Year Project\FinalYearProject\FinalYearProject\bin\Debug\DPFPGuiNet.dll
+F:\Final Year Project\FinalYearProject\FinalYearProject\bin\Debug\DPFPShrNET.dll
+F:\Final Year Project\FinalYearProject\FinalYearProject\bin\Debug\DPFPVerNET.dll
+F:\Final Year Project\FinalYearProject\FinalYearProject\bin\Debug\EntityFramework.dll
+F:\Final Year Project\FinalYearProject\FinalYearProject\bin\Debug\EntityFramework.SqlServer.dll
+F:\Final Year Project\FinalYearProject\FinalYearProject\bin\Debug\MetroFramework.Design.dll
+F:\Final Year Project\FinalYearProject\FinalYearProject\bin\Debug\MetroFramework.dll
+F:\Final Year Project\FinalYearProject\FinalYearProject\bin\Debug\MetroFramework.Fonts.dll
+F:\Final Year Project\FinalYearProject\FinalYearProject\bin\Debug\CosmosApplication.pdb
+F:\Final Year Project\FinalYearProject\FinalYearProject\bin\Debug\EntityFramework.xml
+F:\Final Year Project\FinalYearProject\FinalYearProject\bin\Debug\EntityFramework.SqlServer.xml
+F:\Final Year Project\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.exe
+F:\Final Year Project\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.pdb
+F:\Final Year Project\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.EnrollmentForm.resources
+F:\Final Year Project\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.VerificationForm.resources
+E:\Shared\FinalYearProject\FinalYearProject\bin\Debug\FinalYearProject.exe.config
+E:\Shared\FinalYearProject\FinalYearProject\bin\Debug\FinalYearProject.exe
+E:\Shared\FinalYearProject\FinalYearProject\bin\Debug\FinalYearProject.pdb
+E:\Shared\FinalYearProject\FinalYearProject\bin\Debug\CosmosApplication.dll
+E:\Shared\FinalYearProject\FinalYearProject\bin\Debug\DPFPGuiNet.dll
+E:\Shared\FinalYearProject\FinalYearProject\bin\Debug\DPFPShrNET.dll
+E:\Shared\FinalYearProject\FinalYearProject\bin\Debug\DPFPVerNET.dll
+E:\Shared\FinalYearProject\FinalYearProject\bin\Debug\EntityFramework.dll
+E:\Shared\FinalYearProject\FinalYearProject\bin\Debug\EntityFramework.SqlServer.dll
+E:\Shared\FinalYearProject\FinalYearProject\bin\Debug\MetroFramework.Design.dll
+E:\Shared\FinalYearProject\FinalYearProject\bin\Debug\MetroFramework.dll
+E:\Shared\FinalYearProject\FinalYearProject\bin\Debug\MetroFramework.Fonts.dll
+E:\Shared\FinalYearProject\FinalYearProject\bin\Debug\CosmosApplication.pdb
+E:\Shared\FinalYearProject\FinalYearProject\bin\Debug\EntityFramework.xml
+E:\Shared\FinalYearProject\FinalYearProject\bin\Debug\EntityFramework.SqlServer.xml
+E:\Shared\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.csprojResolveAssemblyReference.cache
+E:\Shared\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.AddGuardiancs.resources
+E:\Shared\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.AddStudent.resources
+E:\Shared\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.EnrollmentForm.resources
+E:\Shared\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.GuardiansTakeAway.resources
+E:\Shared\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.GuardianTime.resources
+E:\Shared\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.ManageStudents.resources
+E:\Shared\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.Properties.Resources.resources
+E:\Shared\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.VerificationForm.resources
+E:\Shared\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.csproj.GenerateResource.Cache
+E:\Shared\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.exe
+E:\Shared\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.pdb
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\bin\Debug\FinalYearProject.exe.config
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.exe
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.pdb
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\bin\Debug\FinalYearProject.exe
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\bin\Debug\FinalYearProject.pdb
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\bin\Debug\CosmosApplication.dll
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\bin\Debug\DPFPGuiNet.dll
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\bin\Debug\DPFPShrNET.dll
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\bin\Debug\DPFPVerNET.dll
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\bin\Debug\EntityFramework.dll
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\bin\Debug\MetroFramework.Design.dll
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\bin\Debug\MetroFramework.dll
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\bin\Debug\CosmosApplication.pdb
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\bin\Debug\EntityFramework.xml
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.csprojResolveAssemblyReference.cache
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.AddGuardiancs.resources
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.AddStudent.resources
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.EnrollmentForm.resources
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.GuardiansTakeAway.resources
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.GuardianTime.resources
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.ManageStudents.resources
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.Properties.Resources.resources
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.VerificationForm.resources
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.csproj.GenerateResource.Cache
+C:\Users\Mukarram Sardar\Desktop\FinalYearProject\FinalYearProject\FinalYearProject\obj\Debug\FinalYearProject.AppInterface.resources
